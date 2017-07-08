@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cool_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="coolweather.agaigets.com.db.City"/>
+        <mapping class="coolweather.agaigets.com.db.Country"/>
+        <mapping class="coolweather.agaigets.com.db.Province"/>
+    </list>
+</litepal>
